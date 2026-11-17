@@ -1,0 +1,133 @@
+{
+  "status": "development_examples_not_endorsements",
+  "verified_on": "2026-11-16",
+  "entries": [
+    {
+      "id": "AP-PUBLIC-INTEREST",
+      "name": "Associated Press",
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "route": "independent_editorial",
+      "fit": "Evidence of a matter of public interest across sectors; not a routine promotional announcement.",
+      "typical_topic": "Independently selected public-interest news; current desk fit requires a fresh check.",
+      "official_channel": "https://www.ap.org/contact-us/news-tips/",
+      "channel_note": "Official news-tip route checked 2026-11-17; no contact made and no coverage promised.",
+      "price": {
+        "amount": null,
+        "currency": null,
+        "status": "not_applicable_to_independent_editorial",
+        "verified_on": "2026-11-17",
+        "conditions": "Independent editorial selection has no purchase price."
+      }
+    },
+    {
+      "id": "HUXIU-CONTRIBUTION",
+      "name": "虎嗅",
+      "country": "CN",
+      "languages": [
+        "zh"
+      ],
+      "route": "independent_editorial",
+      "fit": "Business, workplace and consumer-service analysis with original evidence and disclosed interests.",
+      "typical_topic": "Industry analysis and practitioner contributions; affiliation and conflicts should be disclosed.",
+      "official_channel": "https://www.huxiu.com/contribute/",
+      "channel_note": "Official online contribution route requires login. Publisher can edit submissions; contributed analysis differs from independent reporting about the contributor.",
+      "price": {
+        "amount": null,
+        "currency": null,
+        "status": "not_applicable_to_independent_editorial",
+        "verified_on": "2026-11-16",
+        "conditions": "Editorial selection is independent; no price or coverage guarantee."
+      }
+    },
+    {
+      "id": "CAIXIN-EDITORIAL",
+      "name": "财新",
+      "country": "CN",
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "route": "independent_editorial",
+      "fit": "Economic, financial, corporate-governance and material industry developments with documents and accountable sources.",
+      "typical_topic": "Financial and business news; distinguish news tips from promotional guest content.",
+      "official_channel": "https://corp.caixin.com/contactus/",
+      "channel_note": "Official page separates newsroom, advertising and commercial cooperation; use the editorial route for news evidence.",
+      "price": {
+        "amount": null,
+        "currency": null,
+        "status": "not_applicable_to_independent_editorial",
+        "verified_on": "2026-11-16",
+        "conditions": "Editorial selection is independent; no price or coverage guarantee."
+      }
+    },
+    {
+      "id": "JIEMIAN-PAID",
+      "name": "界面新闻 — 商业内容合作",
+      "country": "CN",
+      "languages": [
+        "zh"
+      ],
+      "route": "paid_brand_content",
+      "fit": "Clearly labeled business/technology brand content where a paid route and an approved budget fit the strategy.",
+      "typical_topic": "Official commercial offerings include native content, video production, brand advertising and sponsorship.",
+      "official_channel": "https://www.jiemian.com/about/contact.html",
+      "channel_note": "Commercial contacts and editorial desk appear separately. Do not present commercial production as independent reporting.",
+      "price": {
+        "amount": null,
+        "currency": null,
+        "status": "not_publicly_verified",
+        "published_on": null,
+        "verified_on": "2026-11-16",
+        "conditions": "Obtain a dated, scoped quote before budgeting; no purchase or contact is authorized by this record.",
+        "source": "https://www.jiemian.com/about/contact.html"
+      }
+    },
+    {
+      "id": "BUSINESSWIRE-DISTRIBUTION",
+      "name": "Business Wire",
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "route": "press_release_distribution",
+      "fit": "Substantiated corporate announcements distributed to a selected circuit; no independent coverage assurance.",
+      "typical_topic": "Company-supplied releases.",
+      "official_channel": "https://www.businesswire.com/pricing",
+      "price": {
+        "amount": 475,
+        "currency": "USD",
+        "unit": "starting price, 400 words, US domestic local distribution",
+        "published_on": null,
+        "verified_on": "2026-11-17",
+        "source": "https://www.businesswire.com/pricing",
+        "validity": "Public page snapshot; no expiry stated; recheck before any budget decision.",
+        "conditions": "Starting price only; additional words, regional/national/international circuits, multimedia and translation may add cost. Taxes unverified; not a project quote."
+      }
+    },
+    {
+      "id": "EIN-DISTRIBUTION",
+      "name": "EIN Presswire",
+      "country": "US",
+      "languages": [
+        "en"
+      ],
+      "route": "press_release_distribution",
+      "fit": "Company announcements when distribution is separately justified and funded; not a substitute for an evidence-based editorial pitch.",
+      "typical_topic": "Issuer-supplied press releases.",
+      "official_channel": "https://www.einpresswire.com/pricing",
+      "price": {
+        "amount": 149,
+        "currency": "USD",
+        "unit": "one Basic news release",
+        "published_on": null,
+        "verified_on": "2026-11-17",
+        "source": "https://www.einpresswire.com/pricing",
+        "validity": "Historical snapshot; recheck before budgeting",
+        "conditions": "One release; credit usable within 365 days; taxes and any unlisted extras not verified. No independent editorial coverage promised."
+      }
+    }
+  ]
+}

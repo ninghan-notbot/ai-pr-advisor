@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+dist/
+.agents/
+.claude/
+.kimi/
+.kimi-code/
+sessions/
+research/
+private/
+evidence/
+*.jsonl
+.env*
+*.pem
+*.key

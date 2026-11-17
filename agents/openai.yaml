@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI PR Advisor"
+  short_description: "Bilingual public relations and practical crisis advice"
+  default_prompt: "Use $ai-pr-advisor to help me work through a public relations decision."
+policy:
+  allow_implicit_invocation: true
