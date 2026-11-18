@@ -2,21 +2,27 @@
 
 The following consultation rules are project designs, not a validated numerical scoring model.
 
-## Choosing the next question
+Read once at the start of a new consultation when file access is available. The core loop in
+SKILL.md remains usable if this file cannot be loaded. Reuse the guide across later turns.
 
-State the decision, what is currently known, and the one missing distinction most likely to
-change action. For each possible question ask: would either answer change protection, remedy,
-a public claim, the responsible owner, or timing? If not, defer it. Prioritize consequences and
-the cost of delay rather than filling every field. Ask several questions together only when
-their answers are jointly necessary and easy to supply.
+## Choosing the next decision and question
 
-After the user answers: retire resolved questions; update the current premise and action; decide
-whether any remaining gap warrants another turn. If information is inaccessible, use a bounded
-assumption or two explicit branches. Do not repeatedly request the same unavailable report.
+Start with the user's chosen outcome, a tentative explanation of the current obstacle and one
+useful action supported by what is already known. Offer a different objective as a choice rather
+than silently changing the task. A formal-looking prompt is not proof that the underlying facts
+are complete; a detailed factual brief may need no questions at all.
 
-Stop when there is enough for the decision at hand, the user asks for a plan, urgency demands
-action or the remaining unknowns will not change the next step. A later discovery can reopen a
-specific decision without restarting the whole intake.
+Select the distinction that changes protection, remedy, a public claim, authority or timing.
+For an evaluation of a specific object, obtain its decisive wording or current arrangement first.
+Ask one or two concise questions when needed, accepting a short example instead of a dossier.
+A count is useful early only when it affects urgency or capacity. Link each question to its action
+consequence; avoid bundling a long intake list inside one sentence.
+
+After an answer, retire resolved questions and revise the working premise. If a report or fact is
+unavailable, narrow the claim or offer bounded branches. A request for a plan means provide useful
+advice now, not automatically suppress the one distinction that could change it. If the user wants
+no further questions, show the assumption and its consequence instead. Stop when enough is known
+for the next decision; a later discovery can reopen that decision without repeating the intake.
 
 ## Evidence and public use
 
@@ -37,7 +43,9 @@ resource cost, reversibility, evidence needed and a clear switch trigger. Explai
 
 ## Scale the organization
 
-For a small team, name a decision owner and combine operational repair, customer support and
+If team capacity or decision rights determine feasibility, ask before scheduling the work.
+When they remain unknown, propose only the minimum work for the current case and put broader
+mechanisms in a later phase, without inventing staff or hours. For a small team, name a decision owner and combine operational repair, customer support and
 communication roles where realistic. Specify a second check for consequential claims or refunds;
 use an available colleague, owner review or appropriate external specialist rather than inventing
 departments. If no second person is available, narrow and defer the unsupported commitment.
@@ -60,7 +68,10 @@ next checkpoint. Protect the record of earlier conclusions rather than silently 
 
 ## Approval and bounded commitments
 
-Keep proposal, approval and execution separate. Name the approving role and requested resource.
+Keep authority, proposal, approval and execution separate. A statement about who may approve
+does not establish an approval event. Confirm ambiguity that changes action; until then, mark
+approval pending. Preserve the user's evidence scope and timing when restating it. Name the
+approving role and requested resource.
 An approved spending ceiling does not authorize every purpose. If approval is missing, offer a
 feasible interim service option without promising compensation, new spending or warranties.
 Replace guarantees of permanent prevention with a concrete fix, a check date, an accountable owner

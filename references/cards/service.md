@@ -62,3 +62,5 @@ Adapt these suggestions to the user’s facts, resources and authority. A propos
 - **Failure conditions / limits:** A deployed patch or sent message alone does not establish recovery for all users.
 - **Basis:** [CDC plain language](https://www.cdc.gov/health-literacy/php/develop-materials/plain-language.html). Audience-oriented wording, prioritized messages and usable instructions.
 
+
+For a decision-changing historical comparison, read [P01–P03: system gaps, actual charges and usable remedies](../precedents/customer-remedy.md).

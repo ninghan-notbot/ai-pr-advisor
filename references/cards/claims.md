@@ -62,3 +62,7 @@ Adapt these suggestions to the user’s facts, resources and authority. A propos
 - **Failure conditions / limits:** A new notice does not retrospectively establish consent. Check the applicable consumer rules.
 - **Basis:** [China consumer protection implementing regulation](https://app.www.gov.cn/govdata/gov/202403/19/513111/article.html). Official 2024 regulation; scope-specific current legal review is required. No universal refund deadline is inferred.
 
+
+For a decision-changing historical comparison, read [P04–P06: claim scope, implementation and changed guidance](../precedents/claims-and-updates.md).
+
+For a decision-changing historical comparison, read [P02–P03: currency, consent and refunds](../precedents/customer-remedy.md).

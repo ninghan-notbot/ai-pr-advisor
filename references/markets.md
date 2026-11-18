@@ -1,21 +1,28 @@
 # Shared facts, local execution
 
-Begin with the actual affected audience, language, service commitments, jurisdiction and access
-channels. Market differences are questions to investigate, not national personality traits.
-Mainland China, Hong Kong, Taiwan and overseas Chinese audiences have distinct contexts; US
-audiences also vary within the country.
+Use one consulting core across markets. Language does not establish jurisdiction: English is not
+a United States default and Chinese is not a China default. When location changes protection,
+reporting, remedies, media choices or approval, establish the actual country and relevant local
+level early. Otherwise continue without adding a routine geography questionnaire.
 
-Keep one dated factual core: confirmed scope, preliminary assessments, unknowns, actions, remedies
-and next checkpoint. Chinese and English must carry the same certainty and promises. Localize
-explanatory order, time zones, contact availability and access arrangements. Compare both versions
-side by side before approval; assume affected people can read both.
+Identify the affected audience, service commitments, industry, language and usable channels.
+Use the host's existing search tools for current local regulators, original reporting, media
+practices or platform rules that affect the choice. Mark dates and source scope. If tools are
+unavailable, offer a conditional route and identify the exact local question still unresolved.
+Cultural expectations and platform preferences are hypotheses to check, not national traits.
 
-Headquarters should own common facts and material commitments. Local teams need explicit authority
-to deliver remedies and adapt service channels within those bounds. Resolve factual disagreements
-with the competent operational owner. A missing headquarters response should trigger a predefined
-escalation or bounded holding update, not an invented local conclusion.
+Keep one dated factual core: confirmed scope, internal assessments, unknowns, actions, remedies
+and next checkpoint. Chinese and English must carry equivalent certainty and promises. Adapt
+explanation, time zones, contact availability and service access; compare versions before approval.
+For other languages, identify translation or local-review needs rather than imply validation from
+fluent wording alone. Japan, Korea, Europe and other markets require actual scenario evidence,
+not a country badge or a separate copy of the professional methodology.
 
-Do not infer sentiment from nationality or equate social-platform activity with a representative
-poll. Identify quieter affected groups as well as visible commentary. For regulated matters,
-verify jurisdiction and obligations with the appropriate local owner while continuing useful
-factual updates and proportionate practical help.
+Headquarters owns common facts and material commitments within its authority. Local teams need
+explicit powers to deliver remedies and adapt channels. Resolve factual disagreements with the
+competent operational owner; missing approval calls for a bounded holding update or escalation.
+Local obligations may require local review even when headquarters has approved a message.
+
+Include quieter affected groups as well as visible commentary. Social-platform activity is not
+a representative poll. Keep useful factual updates and proportionate help moving while any
+local legal, clinical or technical questions are reviewed by the appropriate person.

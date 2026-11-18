@@ -1,50 +1,65 @@
+[English](README.md) · [简体中文](README.zh-CN.md)
+
 # AI PR Advisor
 
-A bilingual Agent Skill for public relations decisions and practical business remedies. Describe a
-complaint, service failure or communications problem in ordinary Chinese or English. The adviser
-asks questions that change the decision, adapts to your resources, and proposes accountable action.
+An installable Agent Skill for public relations decisions and practical business action.
+Describe your situation in ordinary English or Chinese: a customer complaint, a disputed claim,
+a service failure, or a media opportunity. The adviser helps clarify the real problem, takes new
+facts into account, and works toward a proportionate communications and execution plan.
 
-**Version 0.4.0-rc.2 — release candidate.** Local tests are evidence for specific workflows, not a
-guarantee of professional results or compatibility with every host.
+Designed for global users with different levels of professional experience. Language does not
+set the market: advice should follow the actual country, audience, industry and available resources.
+English and Chinese are the priority languages; other languages and markets need further validation.
 
-## Install
+**0.6.1-rc.1 — release candidate.** Installation and professional results are verified separately;
+broader superiority over ordinary AI is not established. Public release requires owner approval.
 
-From the repository folder, install into an existing project:
+## Install from GitHub
+
+With repository access, ask the Codex Skill installer to install
+[AI PR Advisor from GitHub](https://github.com/ninghan-notbot/ai-pr-advisor/tree/main), repository
+path `.`, Skill name `ai-pr-advisor`, using authenticated download.
+
+GitHub installation uses the selected repository ref. Confirm its commit and the version in
+`SKILL.md` before testing; this checkout describes **0.6.1-rc.1**. The authenticated download path
+was observed on the earlier audited **0.4.0-rc.2** baseline; later refs need their own installation
+check. While the repository is Private, access authorization is required. The root-level Git
+sparse-checkout fallback omitted reference folders and should not be used for this layout.
+See [installation and actual platform status](docs/compatibility.md).
+
+From an authorized local checkout, install into an existing project:
 
 ```sh
 python3 tools/install.py --project /path/to/your-project --platform codex
 ```
 
-For Claude Code use `--platform claude`; for Kimi Code use `--platform kimi`. These create real
-project-local Skill folders and refuse to overwrite a different installation. An existing model
-account is required; the Skill itself makes no API calls or purchases.
+The same core can be packaged for other hosts. Use `--platform claude` or `--platform kimi` for
+prepared project-folder layouts; these options alone do not prove installation or activation on
+those products. Doubao Work remains a priority for actual import and user testing. Uploading a
+prompt or document to an ordinary chat is not proof of Skill installation.
 
-Alternatively extract the standard ZIP and place the complete `ai-pr-advisor` folder under the
-host's Skill directory. Keep LICENSE, NOTICE and references with SKILL.md. For importers requiring
-SKILL.md at ZIP root, including the documented Doubao developer import, use the flat ZIP. See
-[installation and actual host status](docs/compatibility.md); ordinary chat uploads are not proof
-of Skill installation.
+## Start with your problem
 
-## Try a consultation
+“Our repair bookings are late and customers are losing confidence. What should we do today?”
 
-“Our bookstore's collection orders are running late and customers are complaining. What should we do?”
+Then answer the questions you can. You can ask for a plan immediately, supply a draft for review,
+or explain that some facts are unavailable. Where the host supports automatic Skill selection,
+a normal request can activate it; otherwise use the host's Skill picker or explicit invocation.
 
-In a host with implicit Skill discovery, no file-reading instruction is needed. If the host does not
-select it, use its Skill picker or the host's explicit Skill command. Then continue with the facts
-you have; you need not complete a questionnaire before receiving useful advice.
+The intended result is a useful decision with reasons, practical remedies, realistic responsibility
+and approval, suitable communication, and a way to revise the plan as facts change. Short advice
+may be enough for a small team; a complex issue can need a fuller plan. Relevant references and
+current public research are used on demand, within the host's capabilities.
 
-The package includes 40 concise decision cards in eight groups, loaded as relevant. It does not
-include or query an external private research library. It will not contact media, publish or spend
-money on your behalf. Proposed remedies remain proposals until authorized.
+## Scope and availability
 
-## Development and packaging
+No server, paid API client or private-research connection is required or supplied. Running a
+consultation uses your existing model account and tool allowance. Advice and drafts do not
+publish, contact others or authorize spending on your behalf.
 
-```sh
-python3 -m unittest discover -s tests -v
-python3 tools/validate.py
-python3 tools/package.py --output /path/to/ai-pr-advisor.zip
-python3 tools/package.py --layout flat --output /path/to/ai-pr-advisor-import.zip
-```
+Codex has observed installation and consultation evidence. Doubao Work, Kimi, Claude Code,
+ChatGPT, DeepSeek, Muse and other hosts are assessed by their actual installation and triggering
+capabilities; a shared file format is not a compatibility guarantee.
 
-[中文](README.zh-CN.md) · [Evidence and limits](docs/evaluation.md) ·
-[MIT license](LICENSE) · [Third-party rights](NOTICE.md) · [Roadmap](docs/roadmap.md)
+[Evidence and limitations](docs/evaluation.md) · [Platform status](docs/compatibility.md) ·
+[Development and packaging](docs/release.md) · [MIT license](LICENSE) · [Third-party rights](NOTICE.md) · [Project names and marks](TRADEMARKS.md)

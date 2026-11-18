@@ -44,3 +44,11 @@ scope and access notes are in [sources](../sources.md). Do not imply that a cite
 - [K38 精简执行 / Lean execution](governance.md#k38)
 - [K39 结果评估 / Outcome measurement](governance.md#k39)
 - [K40 复盘与复发 / Learning without guarantees](governance.md#k40)
+
+## Additional decision aids
+
+- Current facts or prices: [targeted investigation](../live-investigation.md).
+- Integrated strategy after consultation: [delivery guide](../strategy-delivery.md).
+- Service, pricing or redress analogies: [P01–P03](../precedents/customer-remedy.md).
+- Claim scope or evolving enforcement: [P04–P06](../precedents/claims-and-updates.md).
+Read these when the corresponding decision arises, not all at once.
