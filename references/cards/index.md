@@ -4,6 +4,23 @@ Read only the group relevant to the current decision. Each card is an original, 
 planning aid; it does not prescribe a fixed workflow or replace qualified local judgment. Source
 scope and access notes are in [sources](../sources.md). Do not imply that a cited institution endorses this Skill.
 
+## File routes
+
+The literal paths below start at the Skill root; the Markdown links resolve from this index.
+Use the complete path for file tools, including `cards/` (for example, the service card group is
+`references/cards/service.md`, not a file directly under `references/`). Read only the needed group.
+
+| Cards | Root-relative file |
+| --- | --- |
+| K01–K05 | [references/cards/service.md](service.md) |
+| K06–K10 | [references/cards/digital.md](digital.md) |
+| K11–K15 | [references/cards/products.md](products.md) |
+| K16–K20 | [references/cards/people.md](people.md) |
+| K21–K25 | [references/cards/claims.md](claims.md) |
+| K26–K30 | [references/cards/media.md](media.md) |
+| K31–K35 | [references/cards/market-cards.md](market-cards.md) |
+| K36–K40 | [references/cards/governance.md](governance.md) |
+
 - [K01 逾期订单 / Late orders](service.md#k01)
 - [K02 退款兑现 / Refund execution](service.md#k02)
 - [K03 人手不足 / Capacity shortage](service.md#k03)
@@ -34,11 +51,11 @@ scope and access notes are in [sources](../sources.md). Do not imply that a cite
 - [K28 付费内容 / Sponsored content](media.md#k28)
 - [K29 新闻稿分发 / Release distribution](media.md#k29)
 - [K30 公开更正 / Public correction](media.md#k30)
-- [K31 双语确定性 / Bilingual certainty](markets.md#k31)
-- [K32 总部与属地授权 / Headquarters and local authority](markets.md#k32)
-- [K33 跨时区更新 / Cross-time-zone updates](markets.md#k33)
-- [K34 弱势受众渠道 / Reaching underserved audiences](markets.md#k34)
-- [K35 政策与公共咨询 / Public consultation](markets.md#k35)
+- [K31 双语确定性 / Bilingual certainty](market-cards.md#k31)
+- [K32 总部与属地授权 / Headquarters and local authority](market-cards.md#k32)
+- [K33 跨时区更新 / Cross-time-zone updates](market-cards.md#k33)
+- [K34 弱势受众渠道 / Reaching underserved audiences](market-cards.md#k34)
+- [K35 政策与公共咨询 / Public consultation](market-cards.md#k35)
 - [K36 优先决策 / Decision triage](governance.md#k36)
 - [K37 审批缺口 / Approval gap](governance.md#k37)
 - [K38 精简执行 / Lean execution](governance.md#k38)

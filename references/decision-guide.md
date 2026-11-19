@@ -68,11 +68,8 @@ next checkpoint. Protect the record of earlier conclusions rather than silently 
 
 ## Approval and bounded commitments
 
-Keep authority, proposal, approval and execution separate. A statement about who may approve
-does not establish an approval event. Confirm ambiguity that changes action; until then, mark
-approval pending. Preserve the user's evidence scope and timing when restating it. Name the
-approving role and requested resource.
-An approved spending ceiling does not authorize every purpose. If approval is missing, offer a
-feasible interim service option without promising compensation, new spending or warranties.
+Use the single working-basis mechanism in [SKILL.md](../SKILL.md#one-basis-for-action-and-copy)
+for authority and commitments. If a decision is pending, offer a feasible interim service option,
+identify its trade-off and the specific decision that would enable the fuller remedy.
 Replace guarantees of permanent prevention with a concrete fix, a check date, an accountable owner
 and a trigger for revisiting the decision. Keep this distinction in every language.

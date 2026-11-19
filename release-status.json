@@ -1,20 +1,19 @@
 {
-  "version": "0.6.1-rc.1",
+  "version": "0.6.4-draft.2",
+  "stage": "beta-candidate",
+  "stable": false,
   "professional_acceptance": false,
-  "public_release_authorized": false,
-  "licensing": "MIT",
-  "release_stage": "release-candidate",
-  "audited_baseline": "0.4.0-rc.2",
-  "independent_audit": false,
-  "targeted_review": {
-    "reviewed_commit": "8f1affb95ab51b29eb8b4e4e900b34ad88d7945b",
-    "core_rules": "PASS",
-    "scope": "Historical limited review of the preceding commit; later rc.1 release-safety findings are described in docs/release.md"
-  },
-  "f1_text_regression": {
-    "R07_pass": 3,
-    "R07_total": 3,
-    "R02_extra_questions": 0,
-    "scope": "Four local Codex first-turn checks, not an independent release audit"
-  }
+  "overall_advantage_proven": false,
+  "public_distribution_authorized": true,
+  "core_changed_in_sprint": false,
+  "natural_language_installation_verified": [],
+  "six_target_entries": [
+    "Doubao web New Work Task",
+    "QwenWork web",
+    "WorkBuddy desktop",
+    "ChatGPT Work",
+    "Claude ordinary desktop",
+    "Gemini web"
+  ],
+  "scope": "Installation payload and documentation only; prior results are not assigned to this version."
 }

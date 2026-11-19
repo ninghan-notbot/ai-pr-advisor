@@ -1,6 +1,6 @@
 # People / 按需决策卡
 
-Adapt these suggestions to the user’s facts, resources and authority. A proposed action remains a proposal until approved.
+Adapt these suggestions to the user’s facts, resources and authority. Use the working basis in [SKILL.md](../../SKILL.md#one-basis-for-action-and-copy).
 
 <a id="k16"></a>
 

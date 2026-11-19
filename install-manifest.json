@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "project": "ai-pr-advisor",
+  "version": "0.6.4-draft.2",
+  "stage": "beta-candidate",
+  "core_frozen": true,
+  "license": "MIT",
+  "requires_paid_api": false,
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "0355532c07f3b01f93324ed1734081e01ceac5a4b958de24d8fd1a917f4542a5"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "141475a6e937cd347c9e394369fb5c040236fd575d24e71175a720fdfa834819"
+    },
+    {
+      "path": "references/decision-guide.md",
+      "sha256": "9130e4b1593cf09fca57ee424dc7c952c948fe01f4670a549cadae706d0eaa48"
+    },
+    {
+      "path": "references/markets.md",
+      "sha256": "14d25598c68db3b1048eba2181eae93891574c1d3e6228236c566432cb42c73a"
+    },
+    {
+      "path": "references/media-guide.md",
+      "sha256": "7d26ae395c07493ceed60fb23d8103afe01be45cfd78f78527eaefc605a8566b"
+    },
+    {
+      "path": "references/media-examples.json",
+      "sha256": "c15166e95152a5685c60e7ec2ed0851a6da63c15ecdafecfd70028e468fcb7d3"
+    },
+    {
+      "path": "references/examples.md",
+      "sha256": "5aeca104bfd4e2b4ace8726d7cac9dd85f4512456b265e0544f1387e82905a28"
+    },
+    {
+      "path": "references/sources.md",
+      "sha256": "5a962c5b221fc491bd9c56a780f97b332080916d25eb4c05fd23666a2dda64fe"
+    },
+    {
+      "path": "references/knowledge-cards.md",
+      "sha256": "945e554f1169c86d127ed4d0d305192171f82e90995fb3e25634bba3a62c70ca"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "4ed84dc12e9ce5d8dfbafb91749d7ec02f55c4fe2734b2ef512c93029031b0dd"
+    },
+    {
+      "path": "NOTICE.md",
+      "sha256": "0fa19750c686c7e4148adf24b8b4345adc15ffdb0f006cd7450eb3aebf80eabe"
+    },
+    {
+      "path": "references/cards/claims.md",
+      "sha256": "efc1053c7114337b191e0e67f30ca2708727d9da09209289a11380b0990bfbc1"
+    },
+    {
+      "path": "references/cards/digital.md",
+      "sha256": "cce87b4fd5e9123a55bb066c25908d21852717ffa404b9410064df07c578e04c"
+    },
+    {
+      "path": "references/cards/governance.md",
+      "sha256": "0f3ca67261c7fe9262537a12756f83a723218c38b9d412095936b805046a8072"
+    },
+    {
+      "path": "references/cards/index.md",
+      "sha256": "a2c41357eb15dcdff9bd8fad560547e3d80033dbed875858eeffc553b77e142b"
+    },
+    {
+      "path": "references/cards/market-cards.md",
+      "sha256": "4a218adf6578ef6b6a87308ae81c19d3523b24a59c72f14dd2f7bcdc550d34db"
+    },
+    {
+      "path": "references/cards/media.md",
+      "sha256": "1dbbde72525774028ab1b8fecc0596fdbdd5abf0e097b154efc31ee3f43f5cd3"
+    },
+    {
+      "path": "references/cards/people.md",
+      "sha256": "23a8f0936c6416ed634de3209e7ac168e0a1397e98a546f888585e5925d9d508"
+    },
+    {
+      "path": "references/cards/products.md",
+      "sha256": "a74f40b667fc7c0de2d76f0761da19492d89909cee450c20cd64dd0600f25d5c"
+    },
+    {
+      "path": "references/cards/service.md",
+      "sha256": "8c0b4c7d321056bfa2e959c27f44cf43b9e9c31b7175a59e65b19f8ac55c46bb"
+    },
+    {
+      "path": "references/live-investigation.md",
+      "sha256": "8d61633a268a4c20c999df98bd48a54650796f0dfce914293e2f47e00082d1ab"
+    },
+    {
+      "path": "references/strategy-delivery.md",
+      "sha256": "d8fe9f836eb920a32cf04bbffb83f9ce6a7e4b8131ce51d5dfa36ec5bf4497ad"
+    },
+    {
+      "path": "references/precedents/customer-remedy.md",
+      "sha256": "c98ad6a0a54a592268b3f660d0bdf0d59ae083c12e25dc5118658178e172ce8a"
+    },
+    {
+      "path": "references/precedents/claims-and-updates.md",
+      "sha256": "60331b97a2e0ffe08317c833ad988ee53173d9ea823d6ab63ddb4a8c3da34778"
+    }
+  ],
+  "packages": [
+    {
+      "file": "ai-pr-advisor-0.6.4-draft.2-doubao.zip",
+      "sha256": "652edbf6c4e615c779ba32e09d0082190517beb7ba8f05dfcc2099cbec938881",
+      "url": "https://github.com/ninghan-notbot/ai-pr-advisor/releases/download/v0.6.4-draft.2/ai-pr-advisor-0.6.4-draft.2-doubao.zip"
+    },
+    {
+      "file": "ai-pr-advisor-0.6.4-draft.2-gemini.zip",
+      "sha256": "ce6a226e5ca16545235af8a03a77b3877fb4951c0f6150546cf81b55826740c5",
+      "url": "https://github.com/ninghan-notbot/ai-pr-advisor/releases/download/v0.6.4-draft.2/ai-pr-advisor-0.6.4-draft.2-gemini.zip"
+    },
+    {
+      "file": "ai-pr-advisor-0.6.4-draft.2-standard.zip",
+      "sha256": "197c6a422489968493cfecc6fe7c654483a0a90f13eb75b499747067d7e64c93",
+      "url": "https://github.com/ninghan-notbot/ai-pr-advisor/releases/download/v0.6.4-draft.2/ai-pr-advisor-0.6.4-draft.2-standard.zip"
+    }
+  ],
+  "installation": {
+    "standard": "Extract the complete ai-pr-advisor directory from the standard archive into the host’s documented persistent skills directory; preserve every relative path and verify hashes. Do not install only SKILL.md. Use native install approval if required. Do not overwrite an unrelated skill.",
+    "workbuddy_directory": "~/.workbuddy/skills/ai-pr-advisor",
+    "workbuddy_validation": "Pending live installation; directory follows official SkillHub documentation.",
+    "host_limit": "If the host cannot persist a Skill, report unsupported rather than claiming a one-time file read is installation."
+  }
+}
