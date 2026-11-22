@@ -4,7 +4,7 @@
 
 SCI Studio helps you work through public relations, communication and brand decisions: clarify the goal, compare options and risks, and prepare practical actions and communication materials. It comes as a local desktop app using your chosen model API, and as an Agent Skill using a compatible host's model and tools.
 
-**Private Alpha / friend-trial pre-release, not a stable product.** Professional gains over ordinary AI have not been established. Review facts, progress and commitments before using outgoing text.
+**Public alpha pre-release for personal and internal evaluation, not a stable product.** Professional gains over ordinary AI have not been established. Review facts, progress and commitments before using outgoing text.
 
 The repository remains **`ninghan-notbot/ai-pr-advisor`**. The Skill identifier, application data identifiers and frozen filenames retain `ai-pr-advisor` for compatibility.
 
